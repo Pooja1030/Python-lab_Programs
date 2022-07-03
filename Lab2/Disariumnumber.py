@@ -7,23 +7,3 @@ if(sum==num):
     print(num,"is a disarium number")
 else:
     print(num,"is not a disarium number")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
