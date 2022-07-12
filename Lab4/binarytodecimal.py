@@ -1,12 +1,7 @@
 # Program to convert binary to decimal
-
-# Program to convert binary to decimal
 def binaryToDecimal(n):
 	num = n;
-	dec_value = 0;
-	
-	# Initializing base
-	
+	dec_value = 0;	
 	base = 1;
 	
 	temp = num;
