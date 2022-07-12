@@ -1,7 +1,6 @@
 # Program to print the union of lists
 
-def union(list1,list2):
-    
+def union(list1,list2):    
     list3 = list1 + list2
     return(list3)
    
